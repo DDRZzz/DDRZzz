@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, sou DDRZzz! 👋
 
-<!--
-**DDRZzz/DDRZzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Sou Técnico em Informática pelo IF Sertão-PE (Campus Salgueiro) e atualmente curso Ciência da Computação na UFPE (Campus Recife). Tenho interesse em tecnologia, desenvolvimento de software e projetos colaborativos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens e Tecnologias
+
+- C++
+- Arduino
+- Java
+- SQL
+- HTML & CSS
+
+> Experiência prática e acadêmica com as linguagens acima, principalmente em projetos e disciplinas do curso.
+
+## Projetos e Experiências
+
+- Participei como extensionista nos projetos **Academia Maker** e **Mov Maker**, promovendo inovação, criatividade e aprendizado prático com tecnologia.
+- Repositório em destaque: [JogoIP](https://github.com/DDRZzz/JogoIP)
+
+## Interesses Pessoais
+
+- 🎮 CS2
+- 🏓 Tênis de Mesa
