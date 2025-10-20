@@ -1,4 +1,4 @@
-# Olá, sou DDRZzz! 👋
+# Olá, sou Daniel Zuza! 👋
 
 ## Sobre mim
 
